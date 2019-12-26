@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnsortedArrayList", "DataSt
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SortedArrayList", "SortedArrayList\SortedArrayList.vcxproj", "{B4747698-E381-42A0-8392-5F55A9BB2B4A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SingleUnsortedLinkedList", "SingleUnsortedLinkedList\SingleUnsortedLinkedList.vcxproj", "{AE78CD34-53B4-4CA6-920D-EA5DD097DB75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{B4747698-E381-42A0-8392-5F55A9BB2B4A}.Release|x64.Build.0 = Release|x64
 		{B4747698-E381-42A0-8392-5F55A9BB2B4A}.Release|x86.ActiveCfg = Release|Win32
 		{B4747698-E381-42A0-8392-5F55A9BB2B4A}.Release|x86.Build.0 = Release|Win32
+		{AE78CD34-53B4-4CA6-920D-EA5DD097DB75}.Debug|x64.ActiveCfg = Debug|x64
+		{AE78CD34-53B4-4CA6-920D-EA5DD097DB75}.Debug|x64.Build.0 = Debug|x64
+		{AE78CD34-53B4-4CA6-920D-EA5DD097DB75}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE78CD34-53B4-4CA6-920D-EA5DD097DB75}.Debug|x86.Build.0 = Debug|Win32
+		{AE78CD34-53B4-4CA6-920D-EA5DD097DB75}.Release|x64.ActiveCfg = Release|x64
+		{AE78CD34-53B4-4CA6-920D-EA5DD097DB75}.Release|x64.Build.0 = Release|x64
+		{AE78CD34-53B4-4CA6-920D-EA5DD097DB75}.Release|x86.ActiveCfg = Release|Win32
+		{AE78CD34-53B4-4CA6-920D-EA5DD097DB75}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
