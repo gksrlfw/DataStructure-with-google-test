@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SingleUnsortedLinkedList", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SingleSortedLinkedList", "SingleSortedLinkedList\SingleSortedLinkedList.vcxproj", "{017E6042-A02A-4734-B8D3-891AE38635D8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoubleUnsortedLinkedList", "DoubleUnsortedLinkedList\DoubleUnsortedLinkedList.vcxproj", "{4554CB62-D304-4698-8C38-0528BF08BC03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{017E6042-A02A-4734-B8D3-891AE38635D8}.Release|x64.Build.0 = Release|x64
 		{017E6042-A02A-4734-B8D3-891AE38635D8}.Release|x86.ActiveCfg = Release|Win32
 		{017E6042-A02A-4734-B8D3-891AE38635D8}.Release|x86.Build.0 = Release|Win32
+		{4554CB62-D304-4698-8C38-0528BF08BC03}.Debug|x64.ActiveCfg = Debug|x64
+		{4554CB62-D304-4698-8C38-0528BF08BC03}.Debug|x64.Build.0 = Debug|x64
+		{4554CB62-D304-4698-8C38-0528BF08BC03}.Debug|x86.ActiveCfg = Debug|Win32
+		{4554CB62-D304-4698-8C38-0528BF08BC03}.Debug|x86.Build.0 = Debug|Win32
+		{4554CB62-D304-4698-8C38-0528BF08BC03}.Release|x64.ActiveCfg = Release|x64
+		{4554CB62-D304-4698-8C38-0528BF08BC03}.Release|x64.Build.0 = Release|x64
+		{4554CB62-D304-4698-8C38-0528BF08BC03}.Release|x86.ActiveCfg = Release|Win32
+		{4554CB62-D304-4698-8C38-0528BF08BC03}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
